@@ -55,7 +55,7 @@ namespace music_scanner
                 lConfig.Add(new KeyValuePair<int, string>(1, @"/home/aoostmei/Music/lossless"));
                 lConfig.Add(new KeyValuePair<int, string>(1, @"/home/aoostmei/Music/music_selection"));
                 lConfig.Add(new KeyValuePair<int, string>(3, @"lossless music selector count albums"));
-                lConfig.Add(new KeyValuePair<int, string>(0, @"lossless music selector count artists"));
+                lConfig.Add(new KeyValuePair<int, string>(3, @"lossless music selector count artists"));
 
                 //// VARIABLES
                 string sRootPath = string.Empty;
