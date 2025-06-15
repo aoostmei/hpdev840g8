@@ -62,3 +62,4 @@
 /home/aoostmei/Documents/vs_code_projects/music_scanner/obj/Debug/net8.0/music_scanner.pdb
 /home/aoostmei/Documents/vs_code_projects/music_scanner/obj/Debug/net8.0/music_scanner.genruntimeconfig.cache
 /home/aoostmei/Documents/vs_code_projects/music_scanner/obj/Debug/net8.0/ref/music_scanner.dll
+/home/aoostmei/Documents/vs_code_projects/music_scanner/obj/Debug/net8.0/music_scanner.sourcelink.json

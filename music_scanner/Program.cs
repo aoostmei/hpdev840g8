@@ -203,7 +203,7 @@ namespace music_scanner
                     conSource.Open();
 
                     // Random Pop Lossless
-                    sQuery = "SELECT [service] = 'mpd', [uri] = 'mnt' + fullpath, [title] = [fullfilename],[artist] = '',[album] = '',[albumart] = '/albumart?cacheid=588&web=////extralarge&path=%2Fmnt%2FNAS%2Flossless%2F'+[artist]+'%2F'+[album]+'&icon=fa-tags&metadata=false' FROM [" + sSchema + "].[" + sViewname + "]";
+                    sQuery = "SELECT [service] = 'mpd', [uri] = 'mnt' + replace(fullpath,'home/aoostmei/Music','NAS'), [title] = [fullfilename],[artist] = '',[album] = '',[albumart] = '/albumart?cacheid=588&web=////extralarge&path=%2Fmnt%2FNAS%2Flossless%2F'+[artist]+'%2F'+[album]+'&icon=fa-tags&metadata=false' FROM [" + sSchema + "].[" + sViewname + "]";
 
                     DataTable dtSource = new DataTable();
 
