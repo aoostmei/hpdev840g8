@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lfAQpef4u34=",
+  "dgSpecHash": "RjULdId0F8c=",
   "success": true,
   "projectFilePath": "/home/aoostmei/Documents/vs_code_projects/music_scanner/music_scanner.csproj",
   "expectedPackageFiles": [
@@ -39,9 +39,7 @@
     "/home/aoostmei/.nuget/packages/system.text.encodings.web/4.7.2/system.text.encodings.web.4.7.2.nupkg.sha512",
     "/home/aoostmei/.nuget/packages/system.text.json/4.7.2/system.text.json.4.7.2.nupkg.sha512",
     "/home/aoostmei/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "/home/aoostmei/.nuget/packages/microsoft.netcore.app.ref/8.0.18/microsoft.netcore.app.ref.8.0.18.nupkg.sha512",
-    "/home/aoostmei/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.18/microsoft.aspnetcore.app.ref.8.0.18.nupkg.sha512",
-    "/home/aoostmei/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.18/microsoft.netcore.app.host.linux-x64.8.0.18.nupkg.sha512"
+    "/home/aoostmei/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.19/microsoft.netcore.app.host.linux-x64.8.0.19.nupkg.sha512"
   ],
   "logs": []
 }
